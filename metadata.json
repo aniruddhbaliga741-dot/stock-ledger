@@ -1,0 +1,6 @@
+{
+  "name": "StockLedger",
+  "description": "Offline-first shopkeeper inventory manager, smart GST & tax calculator, quick POS billing, and profit ledger with zero sign-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StockLedger</string>
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_inventory">Stock</string>
+    <string name="nav_billing">Quick Bill</string>
+    <string name="nav_tax_lab">GST Lab</string>
+    <string name="nav_ledger">Ledger</string>
+    <string name="default_shop_name">My Local Store</string>
+    <string name="offline_badge">100% Offline • No Sign-In</string>
+    <string name="action_add_item">Add Item</string>
+    <string name="action_quick_bill">New Bill</string>
+    <string name="action_restock">Restock</string>
+    <string name="action_share_receipt">Share Receipt</string>
+    <string name="action_export_report">Export Report</string>
+    <string name="empty_inventory_title">Your shelves are ready</string>
+    <string name="empty_inventory_subtitle">Add your first product with cost, selling price, and GST slab to track live margins and stock alerts.</string>
+    <string name="empty_ledger_title">No sales recorded yet</string>
+    <string name="empty_ledger_subtitle">Create a Quick Bill to auto-deduct stock, split CGST/SGST or IGST, and log net profit.</string>
+</resources>
